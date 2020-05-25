@@ -1,0 +1,11 @@
+@import 'components/fonts.scss';
+@import 'components/colors.scss';
+
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  font-family: $text-font;
+  background-color: $white;
+}
